@@ -14,6 +14,6 @@ public class Demo {
 	}
 	public void m2()
 	{
-		System.out.println("Hello java");
+		System.out.println("Hello Devloper");
 	}
 }
