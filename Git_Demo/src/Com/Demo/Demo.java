@@ -10,7 +10,7 @@ public class Demo {
 	}
 	public void m1()
 	{
-		System.out.println("Hello");
+		System.out.println("Hello Tester");
 	}
 	public void m2()
 	{
